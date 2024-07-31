@@ -1,0 +1,80 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Webflow Development",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/01-large.jpg"
+    },
+    {
+      "id": "2",
+      "src": "./img/02-large.jpg"
+    },
+    {
+      "id": "3",
+      "src": "./img/03-large.jpg"
+    },
+    {
+      "id": "4",
+      "src": "./img/04-large.jpg"
+    },
+    {
+      "id": "5",
+      "src": "./img/05-large.jpg"
+    },
+    {
+      "id": "6",
+      "src": "./img/06-large.jpg"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+
+      "description": "I'm in love with the quality and uniqueness of the clothing from Lase_Clothing. Every piece I've bought and sew feels luxurious and has become a staple in my wardrobe. Highly recommend!",
+      "author_name": "Esther",
+      "author_designation": ""
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "I appreciate the diversity and inclusivity of this fashion brand. They offer a wide range of sizes and styles that cater to all body types, making everyone feel beautiful and represented.",
+      "author_name": "Kemi",
+      "author_designation": ""
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lase_Clothing always has the latest trends. I love being able to find stylish, up-to-date clothing that makes me feel confident and fashionable. Their collections never disappoint!",
+      "author_name": "Joy",
+      "author_designation": ""
+    }
+  ]
+}
