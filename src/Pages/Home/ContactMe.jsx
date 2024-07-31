@@ -129,7 +129,7 @@ export default function ContactMe() {
           <p>
             Address: <br /> Abuja FCT Nigeria{" "}
           </p>
-          <p>Phone: +234 8157050147 </p>
+          <p>Phone: 08157050147 </p>
           <p> Email: tobatolu14@gmail.com </p>
           <p>Instagram: "lase__clothing</p>
         </div>
