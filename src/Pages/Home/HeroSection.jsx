@@ -15,9 +15,9 @@ export default function HeroSection() {
           <p className="hero--section-description">
             Discover the future of fashion with our customizable eco-friendly{" "}
             <br />
-            line. Every piece is made from sustainable materials and designed to{" "}
+            line. Every piece is made from sustainable materials and designed{" "}
             <br />
-            your specification, blending style, comfort, and responsibility
+            to your specification, blending style, comfort, and responsibility
           </p>
         </div>
         <Link

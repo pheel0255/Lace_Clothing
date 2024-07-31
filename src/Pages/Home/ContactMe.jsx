@@ -51,10 +51,11 @@ export default function ContactMe() {
     <section id="Contact" className="contact--section">
       <div>
         <p className="sub--title">Get In Touch</p>
-        <h2 className="cont">Contact Me</h2>
+        <h2 className="cont">Contacts</h2>
         <p className="text-lg parag">
-          Please fill out the form below to send us an email and <br />
-          we will get back to you as soon as possible.
+          Please fill out the form below to send us an email
+          <br />
+          and we will get back to you as soon as possible.
         </p>
       </div>
       <form className="contact--form--container" onSubmit={handleSubmit}>
